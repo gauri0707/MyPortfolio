@@ -1,0 +1,25 @@
+.a:hover{
+    transition: 1s;
+    transform:scale(1.); 
+}
+.service-item{
+    transition: 1s;
+}
+.service-item:hover{
+    transition: 1s;
+    transform:scale(1.1);
+}
+.portfolio-item img{
+    transition: 1s;
+}
+.portfolio-item img:hover{
+    transition: 1s;
+    transform:scale(1.1);
+}
+.cert-item img{
+    transition: 1s;
+}
+.cert-item img:hover{
+    transition: 1s; ;
+    transform:scale(1.85);
+}
